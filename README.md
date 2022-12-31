@@ -3,7 +3,6 @@
 I'm Kyle Groulx, a second year electrical engineering student at UBC with a love for computers and software development. I have been coding since a young age and I have developed proficient skills in C, C# Python, Assembly, Arduino and Unity.
 
 ## 🌱 What I'm working on!
-
 ### 🏎️ [Solar Powered Race Cars](https://github.com/UBC-Solar/firmware_v3) 
 I'm currently a member of the UBC Solar Racing Team, where I'm helping to develop software for our third-generation solar-powered car. I collaborate with a team of engineers across multiple disciplines to continuously improve the car's capabilities.
 My responsibilities included designing, coding, testing, and maintaining software solutions for the vehicle using C and STM32 microcontrollers. I've helped develop software to retrieve data from voltage, current and temperature sensors on our car's solar panels and transmit it via a CAN bus. I'm currently working on an SD card logger, a device which will save data from the car onto an SD card as well as a Python program which will be able to visualize this data.
@@ -17,11 +16,10 @@ GLIGHTS is a bussiness I'm trying to start along side one of my friends. It's an
 Watch a demo [here!](https://www.youtube.com/watch?v=8RTGtit4Xts&ab_channel=GLIGHTS)
 
 
-
 ### 📡 Wanna Chat?
 Have an exciting opportunity? Know a way to improve one of my projects? Or just wanna make a new friend?  
 Feel free to reach out and contact me, I love talking to and getting to know new people!
 
-Email: kcgroulx@gmail.com  
-LinkedIn: [linkedin.com/in/kylegroulx](linkedin.com/in/kylegroulx)  
-Instagram: [instagram.com/kyle.groulx/](instagram.com/kyle.groulx)  
+kcgroulx@gmail.com  
+[LinkedIn](https://www.linkedin.com/in/kylegroulx)  
+[Instagram](https://www.instagram.com/kyle.groulx)  
