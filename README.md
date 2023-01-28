@@ -12,7 +12,7 @@ A fully functioning Chess Game and AI I developed using Unity and C#. The progra
 I added a very basic AI opponent, however, I'm currently working on a more complex version which will be able to see multiple moves ahead using Alpha-Beta pruning and level order searching algorithms.
 
 ### 🖥️ [GLIGHTS](https://github.com/kcgroulx/GLIGHTS)
-####Watch a [Demo Here!](https://www.youtube.com/watch?v=8RTGtit4Xts&ab_channel=GLIGHTS)
+#### Watch a [Demo Here!](https://www.youtube.com/watch?v=8RTGtit4Xts&ab_channel=GLIGHTS)  
 GLIGHTS is a bussiness I'm trying to start along side one of my friends. It's an LED strip that attaches to the backside of a monitor that matches the color on screen. This creates a beautiful lightshow effect while watching shows or gaming. I am in charge of all software and hardware development. The software was made using the .NET framework and C#. This application runs in the backround and gets color data from the respective areas on the screen and sends that data via serial port to an Arduino Nano, which decodes the data and sets the color of LEDs.  
 
 
