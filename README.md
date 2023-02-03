@@ -1,6 +1,6 @@
 ## 👋 Hi there! 
 
-I'm Kyle Groulx, a second year electrical engineering student at UBC with a love for computers and software development. I have been coding since a young age and I have developed proficient skills in C, C# Python, Assembly, Arduino and Unity.
+I'm Kyle Groulx, a second year electrical engineering student at UBC with a love for computers and software development. I have been coding since a young age and I have developed proficient skills in C, C# Python and working with microcontrollers.
 
 ## 🌱 What I'm working on!
 ### 🏎️ [Solar Powered Race Cars](https://github.com/UBC-Solar/firmware_v3) 
