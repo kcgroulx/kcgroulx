@@ -23,5 +23,5 @@ kcgroulx@gmail.com
 [LinkedIn](https://www.linkedin.com/in/kylegroulx)  
 [Instagram](https://www.instagram.com/kyle.groulx)  
 
-![grab-landing-page](https://github.com/kcgroulx/unnamed.gif)
+![:3](https://github.com/kcgroulx/kcgroulx/blob/main/unnamed.gif)
 
