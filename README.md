@@ -1,11 +1,15 @@
 ## 👋 Hi there! 
 
-I'm Kyle Groulx, a second year electrical engineering student at UBC with a love for computers and software development. I have been coding since a young age and I have developed proficient skills in C, C# Python and working with microcontrollers.
+I'm Kyle Groulx, a third-year electrical engineering student at UBC with a love for computers and software development. I have been coding since a young age and I have developed proficient skills in C, C# Python and working with microcontrollers.
 
 ## 🌱 What I'm working on!
 ### 🏎️ [Solar Powered Race Cars](https://github.com/UBC-Solar/firmware_v3) 
 I'm currently a member of the UBC Solar Racing Team, where I'm helping to develop software for our third-generation solar-powered car. I collaborate with a team of engineers across multiple disciplines to continuously improve the car's capabilities.
-My responsibilities included designing, coding, testing, and maintaining software solutions for the vehicle using C and STM32 microcontrollers. I've helped develop software to retrieve data from voltage, current and temperature sensors on our car's solar panels and transmit it via a CAN bus. I'm currently working on an SD card logger, a device which will save data from the car onto an SD card as well as a Python program which will be able to visualize this data.
+My responsibilities included designing, coding, testing, and maintaining software solutions for the vehicle using Embedded C, STM32 microcontrollers and FreeRTOS. 
+I've developed our cars drive control system, which takes in the driver inputs and sends commands to our motor. It also handles features such as regenerative braking and cruise control. Additionally, I've developed firmware for gathering voltage, current and temperature data from our car's solar panels and transmit it via a CAN bus as well as an SD card logger which saves CAN bus data onto an SD card.
+
+### 🧠 [Neural Network Library](https://github.com/kcgroulx/Neural-Network)
+I've been working on a Neural Network Library written in Python entirely from scratch (no external AI libraries!) Currently, I am able to create a simple Network that is able to classify digits from the mnist dataset with 90% accuracy.
 
 ### 🖥️ [GLIGHTS](https://github.com/kcgroulx/GLIGHTS)
 #### Watch a [Demo Here!](https://www.youtube.com/watch?v=8RTGtit4Xts&ab_channel=GLIGHTS)  
