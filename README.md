@@ -9,7 +9,6 @@ I've developed our car's drive control system, which takes in the driver inputs 
 Additionally, I've developed firmware for gathering voltage, current and temperature data from our car's solar panels and transmit it via a CAN bus as well as an SD card logger which saves CAN bus data onto an SD card.
 
 ### 🖥️ [GLIGHTS](https://github.com/kcgroulx/GLIGHTS)
-#### Watch a [Demo Here!](https://www.youtube.com/watch?v=8RTGtit4Xts&ab_channel=GLIGHTS)  
 GLIGHTS is a bussiness I'm trying to start along side one of my friends. It's an LED strip that attaches to the backside of a monitor that matches the color on screen. This creates a beautiful lightshow effect while watching shows or gaming. I am in charge of all software and hardware development. The software was made using the .NET framework and C#. This application runs in the backround and gets color data from the respective areas on the screen and sends that data via serial port to an Arduino Nano, which decodes the data and sets the color of LEDs.  
 
 ### 🧠 [Neural Network Library](https://github.com/kcgroulx/Neural-Network)
