@@ -15,7 +15,7 @@ GLIGHTS is a bussiness I'm trying to start along side one of my friends. It's an
 ### 🧠 [Neural Network Library](https://github.com/kcgroulx/Neural-Network)
 I've been working on a Neural Network Library written in Python entirely from scratch (no external AI libraries!) Currently, I am able to create a simple Network that is able to classify digits from the mnist dataset with 90% accuracy. 
 
-### 🐴 [Chess AI](https://github.com/kcgroulx/ChessGame)
+### 🐴 [Chess Game](https://github.com/kcgroulx/ChessGame)
 A fully functioning Chess Game and AI I developed using Unity and C#. The program supports all chess moves including pawn promotion, castling and en passent. It also has legal moves generation, which displays all legal moves a piece is able to make, taking into account moves disallowed due to king safety.  
 I added a very basic AI opponent, however, I'm currently working on a more complex version which will be able to see multiple moves ahead using Alpha-Beta pruning and level order searching algorithms.
 
