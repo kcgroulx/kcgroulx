@@ -1,8 +1,7 @@
 ## 👋 Hi there! 
 
-My name is Kyle Groulx, I'm a third-year electrical engineering student at UBC with a love for computers and software development.  
-I am an aspiring embedded software engineer and have experience working with C, C# Python and STM32 microcontrollers.  
-Curremntly I'm a software engineer intern at [Norsat Interational](https://www.norsat.com/), where I'm developing embedded software for satellite communication systems.
+My name is Kyle Groulx, I'm a third-year electrical engineering student at UBC with a love for computers and software development. I am an aspiring embedded software engineer and have experience working with C, C# Python and STM32 microcontrollers.  
+Currently, I'm a software engineer intern at [Norsat Interational](https://www.norsat.com/), where I'm developing embedded software for satellite communication systems.
 
 ## 🌱 What I'm working on!
 ### 🏎️ [Solar Powered Race Cars](https://github.com/UBC-Solar/firmware_v3) 
