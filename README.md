@@ -26,7 +26,6 @@ Feel free to reach out and contact me, I love talking to and getting to know new
 
 kcgroulx@gmail.com  
 [LinkedIn](https://www.linkedin.com/in/kylegroulx)  
-[Instagram](https://www.instagram.com/kyle.groulx)  
 
 ![:3](https://github.com/kcgroulx/kcgroulx/blob/main/unnamed.gif)
 
