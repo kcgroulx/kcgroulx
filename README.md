@@ -1,7 +1,6 @@
 ## 👋 Hi there! 
 
-My name is Kyle Groulx, I'm a third-year electrical engineering student at UBC with a love for computers and software development. I am an aspiring embedded software engineer and have experience working with C, C# Python and STM32 microcontrollers.  
-Currently, I'm an embedded software engineer intern at [Rivian](https://www.linkedin.com/company/rivian/) on the vehicle software team.
+My name is Kyle Groulx, I'm a fourth-year electrical engineering student at UBC. I'm an aspiring embedded software engineer. Previously, I spent 8 months as an embedded software engineer intern at [Rivian](https://www.linkedin.com/company/rivian/) on the vehicle core software team.
 
 ## 🌱 What I'm working on!
 ### 🏎️ [Solar Powered Race Cars](https://github.com/UBC-Solar/firmware_v3) 
