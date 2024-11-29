@@ -4,7 +4,7 @@ My name is Kyle Groulx, I'm a fourth-year electrical engineering student at UBC.
 
 ## 🌱 What I'm working on!
 ### 🏎️ [Solar Powered Race Cars](https://github.com/UBC-Solar/firmware_v3) 
-I'm currently an the embedded software lead for the UBC Solar Racing Team, where I'm developing software for our third-generation solar powered car using Embedded C, STM32 microcontrollers and FreeRTOS. 
+I'm currently the embedded software lead for the UBC Solar Racing Team, where I'm developing software for our third-generation solar powered car using Embedded C, STM32 microcontrollers and FreeRTOS. 
 
 ### 🖥️ [GLIGHTS](https://github.com/kcgroulx/GLIGHTS)
 GLIGHTS is a bussiness I'm trying to start along side one of my friends. It's an LED strip that attaches to the backside of a monitor that matches the color on screen. This creates a beautiful lightshow effect while watching shows or gaming.  
