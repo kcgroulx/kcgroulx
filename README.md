@@ -7,7 +7,7 @@ My name is Kyle Groulx, I'm a fourth-year electrical engineering student at UBC.
 I'm currently the embedded software lead for the UBC Solar Racing Team, where I'm developing software for our third-generation solar powered car using Embedded C, STM32 microcontrollers and FreeRTOS. 
 
 ### 🖥️ [GLIGHTS](https://github.com/kcgroulx/GLIGHTS)
-GLIGHTS is a bussiness I'm trying to start along side one of my friends. It's an LED strip that attaches to the backside of a monitor that matches the color on screen. This creates a beautiful lightshow effect while watching shows or gaming.  
+GLIGHTS is a personal project turned into a bussiness. It's an LED strip that attaches to the backside of a monitor that matches the color on screen. This creates a beautiful lightshow effect while watching shows or gaming.  
 
 ### 🧠 [Neural Network Library](https://github.com/kcgroulx/Neural-Network)
 I've been working on a Neural Network Library written in Python entirely from scratch (no external AI libraries!) Currently, I am able to create a simple Network that is able to classify digits from the mnist dataset with 90% accuracy. 
